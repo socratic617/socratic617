@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **building full-stack web applications with Resilient Coders**
 
-- 🌱 I’m currently learning **JavaScript (Object-Oriented-Programming)**
+- 🌱 I’m currently learning **AWS, Azure, and React**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-erik-solis.netlify.app/](https://portfolio-erik-solis.netlify.app/)
 
