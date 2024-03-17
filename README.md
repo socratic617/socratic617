@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on expanding my technical tool box by attending Resilient Coders Ascend, a training program to upskill and immerse in deep learning and machine learning.
 
-- 🌱 I’m currently learning **Amazon Web Services (AWS) to be able to scale and build my Fullstack Web Applications**
+- 🌱 I’m currently learning **Amazon Web Services (AWS Amplify) to be able to scale and build my Fullstack Web Applications**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-erik-solis.netlify.app/](https://portfolio-erik-solis.netlify.app/)
 
