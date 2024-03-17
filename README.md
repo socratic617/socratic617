@@ -30,7 +30,7 @@
  <li> Databases: MongoDB  </li>
  <li> Testing: Jest, Cypress, Vitest </li>
  <li> Data visualization: Chart.js </li>
- <li> Other: REST API, Git, Docker, Ubuntu, Open AI</li>
+ <li> Other: REST API, Git, Docker, Ubuntu, Open AI, Windows</li>
 </ul>
 
 <h3 align="center">Languages and Tools:</h3>
