@@ -24,13 +24,13 @@
 
 <h3 align="left">Skills:</h3>
 <ul align="left">
- <li> Programming languages: JavaScript, TypeScript, SQL </li>
- <li> Frontend: HTML, CSS, Bootstrap, Tailwind, React </li>
+ <li> Programming languages: JavaScript, React, HTML, CSS</li>
+ <li> Frontend Framework: Bootstrap, Tailwind </li>
  <li> Backend: Node.js, Express, EJS </li>
- <li> Databases: MongoDB, MySQL, Tableau </li>
+ <li> Databases: MongoDB  </li>
  <li> Testing: Jest, Cypress, Vitest </li>
  <li> Data visualization: Chart.js </li>
- <li> Other: API Integration, JSON, Git, GitHub, Docker, Ubuntu, Open.AI, ChatGPT </li>
+ <li> Other: REST API, Git, Docker, Ubuntu, Open AI</li>
 </ul>
 
 <h3 align="center">Languages and Tools:</h3>
