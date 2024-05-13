@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **erik.solis02135@gmail.com**
 
-- ⚡ Fun fact **I love soccer ⚽︎ Can't wait for the World Cup 🏟🏆**
+- ⚡ Fun fact **I love soccer ⚽︎ Can't wait for the World Cup 🏟**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
