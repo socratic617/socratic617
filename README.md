@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-erik-solis.netlify.app/](https://portfolio-erik-solis.netlify.app/)
 
-- 💬 Ask me about **how I got my nickname Socratic-E?**
+- 💬 Ask me about **how I broke into tech?**
 
 - 📫 How to reach me **erik.solis02135@gmail.com**
 
