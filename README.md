@@ -27,7 +27,7 @@
  <li> Programming languages: JavaScript, React, HTML, CSS, Python, TypeScript</li>
  <li> Frontend Framework: Bootstrap, Tailwind, NextUI </li>
  <li> Backend: Node.js, Express, EJS </li>
- <li> Databases: MongoDB  </li>
+ <li> Databases: MongoDB, AWS </li>
  <li> Testing: Jest, Cypress, Vitest </li>
  <li> Data visualization: Chart.js </li>
  <li> Other: REST API, Git, Docker, Ubuntu, Open AI, Windows</li>
