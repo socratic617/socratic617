@@ -2,7 +2,7 @@
 <div>
   <img src="https://pbs.twimg.com/profile_banners/1702887369249075200/1696433691/1500x500"/>
 </div>
-<h3 align="center">Software Engineer 💻 Trailblazer🔥 Transformer of Tomorrow ⛅️ from Boston, MA</h3>
+<h3 align="center">Software Engineer 💻 Trailblazer 🔥 Transformer of Tomorrow ⛅️ from Boston, MA</h3>
 
 - 🔭 I’m currently working on expanding my technical tool box working on a **Solution Architect AWS certification and scaling my cancer care management platform.**
 
