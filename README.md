@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on expanding my technical tool box working on a **Solution Architect AWS certification and scaling my cancer care management platform.**
 
-- 🌱 I’m currently learning **Machine Learning, ML DevOps, and Amazon Web Services (AWS Amplify, Lambda, CloudWatch, S3, Ec2) to be able to scale and build my Fullstack Web Applications**
+- 🌱 I’m currently learning **z shell(extended version of bash), Machine Learning, ML DevOps, and Amazon Web Services (AWS Amplify, Lambda, CloudWatch, S3, Ec2) to be able to scale and build my Fullstack Web Applications**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-erik-solis.netlify.app/](https://portfolio-erik-solis.netlify.app/)
 
