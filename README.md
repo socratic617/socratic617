@@ -38,3 +38,4 @@
 <h3 align="left">Github Activity:</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=socratic617&theme=dark)](https://git.io/streak-stats)
+
