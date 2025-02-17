@@ -24,8 +24,8 @@
 
 <h3 align="left">Skills:</h3>
 <ul align="left">
- <li> Programming languages: JavaScript, React, HTML, CSS, Python, TypeScript</li>
- <li> Frontend Framework: Bootstrap, Tailwind, NextUI </li>
+ <li> Programming languages: JavaScript, HTML, CSS, Python, TypeScript</li>
+ <li> Frontend Framework: Bootstrap, Tailwind, React, NextUI </li>
  <li> Backend: Node.js, Express, EJS </li>
  <li> Databases: MongoDB, AWS </li>
  <li> Testing: Jest, Cypress, Vitest, Pytest </li>
